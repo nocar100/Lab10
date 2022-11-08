@@ -17,4 +17,11 @@ console.log(Number(input));
 
 alert(`Hello ${input}`)
 
+let fruits = ['Apple','Banana'];
+fruits.push("Orange");
+console.log(fruits);
+
+fruits.shift();
+console.log(fruits);
+
 
